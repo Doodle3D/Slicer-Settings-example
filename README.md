@@ -95,7 +95,7 @@ height:
 
 # Result
 ```json
-"{
+{
   "dimensions": {
     "x": 120,
     "y": 120,
@@ -155,5 +155,5 @@ height:
     "thickness": 0.4
   },
   "title": "PLA"
-}"
+}
 ```
